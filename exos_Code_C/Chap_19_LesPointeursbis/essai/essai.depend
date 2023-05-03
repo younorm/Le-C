@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1682514065 source:e:\bigyou\onedrive\tuto_c\le_c\exos_code_c\chap_19_lespointeursbis\essai\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

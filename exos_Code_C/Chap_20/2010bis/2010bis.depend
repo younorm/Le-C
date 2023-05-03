@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1682679315 source:e:\bigyou\onedrive\tuto_c\le_c\exos_code_c\chap_20\2010bis\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1682158175 source:e:\bigyou\onedrive\tuto_c\le_c\code_c_nuls\chap_11\numeroaleatoire\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1682914762 source:e:\bigyou\onedrive\tuto_c\le_c\exos_code_c\chap_20\ex2012\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
